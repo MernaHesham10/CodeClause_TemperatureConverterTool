@@ -34,11 +34,11 @@
     °R = °F + 459.67
     °R = K x 9/5
 
-# Screen Shots
+### Screen Shots
 ![TemperatureConverterTool](https://github.com/MernaHesham10/CodeClause_TemperatureConverterTool/blob/main/ScreenShot/1.png)
 <br>
 
-# Required Tools
+### Required Tools
 - Java (Programming Language)
 - Java Swing (GUI)
 - IDE: Apache NetBeans or IntelliJ Idea
