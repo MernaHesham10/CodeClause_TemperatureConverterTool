@@ -35,7 +35,7 @@
     °R = K x 9/5
 
 # Screen Shots
-![TemperatureConverterTool]([https://github.com/MernaHesham10/CodeClause_Scientific-Calculator/blob/main/ScreenShots/1.png](https://github.com/MernaHesham10/CodeClause_TemperatureConverterTool/blob/main/ScreenShot/1.png))
+![TemperatureConverterTool](https://github.com/MernaHesham10/CodeClause_TemperatureConverterTool/blob/main/ScreenShot/1.png)
 <br>
 
 # Required Tools
